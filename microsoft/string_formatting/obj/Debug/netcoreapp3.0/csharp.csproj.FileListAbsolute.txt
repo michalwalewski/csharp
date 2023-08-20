@@ -1,0 +1,11 @@
+/root/tutorials/csharp/string_formatting/bin/Debug/netcoreapp3.0/csharp
+/root/tutorials/csharp/string_formatting/bin/Debug/netcoreapp3.0/csharp.deps.json
+/root/tutorials/csharp/string_formatting/bin/Debug/netcoreapp3.0/csharp.runtimeconfig.json
+/root/tutorials/csharp/string_formatting/bin/Debug/netcoreapp3.0/csharp.runtimeconfig.dev.json
+/root/tutorials/csharp/string_formatting/bin/Debug/netcoreapp3.0/csharp.dll
+/root/tutorials/csharp/string_formatting/bin/Debug/netcoreapp3.0/csharp.pdb
+/root/tutorials/csharp/string_formatting/obj/Debug/netcoreapp3.0/csharp.csprojAssemblyReference.cache
+/root/tutorials/csharp/string_formatting/obj/Debug/netcoreapp3.0/csharp.AssemblyInfoInputs.cache
+/root/tutorials/csharp/string_formatting/obj/Debug/netcoreapp3.0/csharp.AssemblyInfo.cs
+/root/tutorials/csharp/string_formatting/obj/Debug/netcoreapp3.0/csharp.dll
+/root/tutorials/csharp/string_formatting/obj/Debug/netcoreapp3.0/csharp.pdb
